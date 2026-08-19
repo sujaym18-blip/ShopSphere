@@ -111,7 +111,7 @@ const Footer = () => {
         <div className="mt-12 p-8 glass-effect rounded-2xl animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div>
-              <h3 className="text-red font-bold text-xl mb-2">Subscribe to Our Newsletter</h3>
+              <h3 className="text-red-700 font-bold text-xl mb-2">Subscribe to Our Newsletter</h3>
               <p className="text-gray-900 text-sm">Get the latest updates on new products and upcoming sales</p>
             </div>
             <div className="flex w-full md:w-auto">
