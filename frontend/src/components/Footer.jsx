@@ -93,15 +93,15 @@ const Footer = () => {
             <ul className="space-y-4 text-sm">
               <li className="flex items-start space-x-3 group">
                 <MapPin className="w-5 h-5 text-primary-400 flex-shrink-0 mt-0.5 group-hover:scale-110 transition-transform" />
-                <span className="group-hover:text-white transition-colors">123 Commerce Street, NY 10001, USA</span>
+                <span className="group-hover:text-white transition-colors">Silicon City, Indore, India</span>
               </li>
               <li className="flex items-center space-x-3 group">
                 <Phone className="w-5 h-5 text-primary-400 flex-shrink-0 group-hover:scale-110 group-hover:rotate-12 transition-all" />
-                <span className="group-hover:text-white transition-colors">+1 (555) 123-4567</span>
+                <span className="group-hover:text-white transition-colors">+919630575516</span>
               </li>
               <li className="flex items-center space-x-3 group">
                 <Mail className="w-5 h-5 text-primary-400 flex-shrink-0 group-hover:scale-110 transition-transform" />
-                <span className="group-hover:text-white transition-colors">support@shopsphere.com</span>
+                <span className="group-hover:text-white transition-colors">kumars302003@gmail</span>
               </li>
             </ul>
           </div>
@@ -130,7 +130,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
           <p className="text-gray-400 animate-fade-in">
-            © {currentYear} <span className="gradient-text font-bold">ShopSphere</span>. All rights reserved. Made with ❤️
+            © {currentYear} <span className="gradient-text font-bold">ShopSphere</span>. All rights reserved.
           </p>
           <div className="flex space-x-8 mt-4 md:mt-0 animate-fade-in" style={{ animationDelay: '0.2s' }}>
             {['Privacy Policy', 'Terms of Service', 'Refund Policy'].map((link) => (
