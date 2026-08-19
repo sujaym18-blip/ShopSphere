@@ -101,7 +101,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3 group">
                 <Mail className="w-5 h-5 text-primary-400 flex-shrink-0 group-hover:scale-110 transition-transform" />
-                <span className="group-hover:text-white transition-colors">kumars302003@gmail</span>
+                <span className="group-hover:text-white transition-colors">kumars302003@gmail.com</span>
               </li>
             </ul>
           </div>
